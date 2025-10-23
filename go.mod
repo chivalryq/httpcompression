@@ -1,11 +1,11 @@
 module github.com/CAFxX/httpcompression
 
-go 1.22
+go 1.23
 
 require (
 	github.com/andybalholm/brotli v1.2.0
 	github.com/google/brotli/go/cbrotli v1.1.1-rc0
-	github.com/klauspost/compress v1.18.0
+	github.com/klauspost/compress v1.18.1
 	github.com/klauspost/pgzip v1.2.6
 	github.com/pierrec/lz4/v4 v4.1.22
 	github.com/stretchr/testify v1.11.1
